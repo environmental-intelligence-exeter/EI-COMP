@@ -1,0 +1,6 @@
+[book]
+title = "EI Computational Handbook"
+
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "navy"
